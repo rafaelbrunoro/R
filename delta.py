@@ -1,0 +1,5 @@
+a = input('Digite um valor para a: ')
+b = input('Digite um valor para b: ')
+c = input('Digite um valor para c: ')
+delta = float(b)**2 - 4*float(a)*float(b)
+print(delta)
